@@ -1,0 +1,1444 @@
+{
+  "wanted": [
+    {
+      "firstName": "MIGUEL ANGEL",
+      "lastName": "GONZ\u00c1LEZ MAT\u00cdAS",
+      "dateOfBirth": "1977/06/06",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['FEMICIDIO']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "DIMAS HUMBERTO",
+      "lastName": "DUARTE",
+      "dateOfBirth": "1977/12/26",
+      "nationalities": "['GT', 'BZ']",
+      "gender": "M",
+      "crimes": "['Murder']",
+      "wantedIn": "['BZ']"
+    },
+    {
+      "firstName": "VICTOR",
+      "lastName": "MITA CHOQUE",
+      "dateOfBirth": "2002/12/05",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['Violacion']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "CARLOS ISRAEL",
+      "lastName": "ORELLANA MIRANDA",
+      "dateOfBirth": "1987/05/26",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n en Menor o Incapaz Continuada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "SILAS OTONIEL",
+      "lastName": "ZAMORA HERNANDEZ",
+      "dateOfBirth": "1974/11/29",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n bajo la modalidad de delito continuado y Expresiones de Violencia Contra Las Mujeres.']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "WILLIAN ALEXANDER",
+      "lastName": "ALBANEZ HERRERA",
+      "dateOfBirth": "1986/06/03",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Feminicidio Agravado y Organizaciones Terroristas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "TUDOR-MARIAN",
+      "lastName": "ARTENIE",
+      "dateOfBirth": "1988/05/09",
+      "nationalities": "['RO']",
+      "gender": "M",
+      "crimes": "['Organised theft, criminal association']",
+      "wantedIn": "['BE']"
+    },
+    {
+      "firstName": "KARANVIR",
+      "lastName": "SINGH",
+      "dateOfBirth": "1984/10/15",
+      "nationalities": "['IN']",
+      "gender": "M",
+      "crimes": "['Criminal conspiracy, murder, offences related to Arms Act, offences related to Explosive substances Act,  raising funds for terrorist act,  conspiracy, being member of terrorist gang or organisation,', 'Offences related to Arms Act, & offences related to Explosive substances Act.']",
+      "wantedIn": "['IN', 'IN']"
+    },
+    {
+      "firstName": "CARLOS ERNESTO",
+      "lastName": "ARAUJO RUIZ",
+      "dateOfBirth": "1962/08/01",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['Un Delito de Abuso Sexual']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "CECILIO ALBERTO",
+      "lastName": "CARRILLO PORTILLO",
+      "dateOfBirth": "1977/07/01",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n en Menor o Incapaz Agravada bajo la modalidad continuada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "JUAN PEDRO",
+      "lastName": "HURTADO SUAREZ",
+      "dateOfBirth": "1989/08/15",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['ASESINATO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ELISA MARIBEL",
+      "lastName": "CALDERON SANCHEZ",
+      "dateOfBirth": "1965/05/30",
+      "nationalities": "['SV']",
+      "gender": "F",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "PEDRO",
+      "lastName": "SANCHEZ MORALES",
+      "dateOfBirth": "1986/11/29",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['ART.308 BIS (VIOLACION)DEL CODIGO PENAL BOLIVIANO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "TOMAS ORLANDO",
+      "lastName": "SALAZAR",
+      "dateOfBirth": "1980/07/01",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n y Otras Agresiones Sexuales']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "HERBERTH ALEXANDER",
+      "lastName": "AMAYA CALDERON",
+      "dateOfBirth": "1987/06/04",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Homicidio Agravado y Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "ESTEBAN",
+      "lastName": "LEIVA RIVERA",
+      "dateOfBirth": "1983/09/02",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO AGRAVADO']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "ANDUELO KENNETH",
+      "lastName": "MAKANDRA",
+      "dateOfBirth": "1990/07/11",
+      "nationalities": "['SR']",
+      "gender": "M",
+      "crimes": "['Article 188: participation in a criminal organization: Anyone who participates in an organization which\\r\\nhe knows or has serious reason to suspect has as its object the commission of crimes ACT of February\\r\\n12, 1998, establishing the Narcotic Drugs Act (Wet Verdovende Middelen) (Official Gazette 1998 no.\\r\\n14), as it reads after the amendments made therein by Official Gazette 2002 No. 68. Article 3 1. It is\\r\\nforbidden that: a. the resources stated on List I of this Act\u037e b. the resources designated under\\r\\nparagraph 2 or 3 of this Article A. are imported, exported or shipped in transit\u037e B. are prepared,\\r\\nadapted, processed, sold, delivered, provided or transported\u037e C. are possessed, present on hand or\\r\\nused\u037e D. are manufactured\u037e']",
+      "wantedIn": "['SR']"
+    },
+    {
+      "firstName": "JULIO MIQUIEL",
+      "lastName": "PECH M\u00c9NDEZ",
+      "dateOfBirth": "1993/10/02",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['ASESINATO Y ASESINATO EN GRADO DE TENTATIVA']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "EFRAIN",
+      "lastName": "SILLERO BERNABE",
+      "dateOfBirth": "1996/08/14",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['ART. 308(VIOLACION) DEL CODIGO PENAL BOLIVIANO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "SZYMON",
+      "lastName": "TOMKIEL",
+      "dateOfBirth": "1983/11/03",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['participation in criminal organization, issue, import and sale of excise goods without excise stamps, excise receiving,']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "ALISHER",
+      "lastName": "NURIDDINOV",
+      "dateOfBirth": "1975/10/08",
+      "nationalities": "['UZ']",
+      "gender": "M",
+      "crimes": "['complicity in financing terrorism by providing information']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "NODARI",
+      "lastName": "CHITASHVILI",
+      "dateOfBirth": "1984/08/24",
+      "nationalities": "['GE']",
+      "gender": "M",
+      "crimes": "['MEURTRE']",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "DAVID",
+      "lastName": "LEVY",
+      "dateOfBirth": "1984/02/05",
+      "nationalities": "['CF']",
+      "gender": "M",
+      "crimes": "['viole sur une mineur de 14 ans']",
+      "wantedIn": "['CF']"
+    },
+    {
+      "firstName": "HUSSAIN",
+      "lastName": "SHIFAU",
+      "dateOfBirth": "1985/10/07",
+      "nationalities": "['MV']",
+      "gender": "M",
+      "crimes": "['Forgery and Counterfeiting;\\r\\nSimulating Objects of Special Value;\\r\\nTheft by Deception;\\r\\nMoney Laundering.']",
+      "wantedIn": "['MV']"
+    },
+    {
+      "firstName": "JUAN",
+      "lastName": "PORTO MARQUEZ",
+      "dateOfBirth": "1979/04/01",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['FEMINICIDIO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "DAMANICHIO",
+      "lastName": "HALL",
+      "dateOfBirth": "2005/04/01",
+      "nationalities": "['NL']",
+      "gender": "M",
+      "crimes": "['violation of the weapon legislation\\r\\nparticiaption in a criminal organisation']",
+      "wantedIn": "['BE']"
+    },
+    {
+      "firstName": "JUAN OSWALDO",
+      "lastName": "CAP CAAL",
+      "dateOfBirth": "1978/07/28",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['FEMICIDIO']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "NAOMI",
+      "lastName": "JONES",
+      "dateOfBirth": "1997/02/26",
+      "nationalities": "['JM']",
+      "gender": "F",
+      "crimes": "['Causing death by dangerous driving/ Man slughter.']",
+      "wantedIn": "['JM']"
+    },
+    {
+      "firstName": "AMINAT",
+      "lastName": "RAMAZANOVA",
+      "dateOfBirth": "1989/04/12",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['participation in the activity of a terrorist organization; participation in the activity of an illegal armed formation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "ENMANUEL",
+      "lastName": "RAM\u00cdREZ JIM\u00c9NEZ",
+      "dateOfBirth": "1987/12/24",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agresi\u00f3n Sexual en Menor e Incapaz Agravada Bajo la Modalidad de Delito Continuado']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "VLADIMIR",
+      "lastName": "MAMANI",
+      "dateOfBirth": "1994/11/14",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['FEMINICIDIO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "MILER",
+      "lastName": "MALLQUI TICONA",
+      "dateOfBirth": "1994/09/01",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['FEMINICIDIO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "GERMAN CAIN",
+      "lastName": "HERNANDEZ MARROQUIN",
+      "dateOfBirth": "1994/05/30",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO AGRAVADO Y ORGANIZACIONES TERRORISTAS AGRAVADAS']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "JOS\u00c9 ANTONIO",
+      "lastName": "AGUIRRE MENJ\u00cdVAR",
+      "dateOfBirth": "1964/11/18",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n en Menor o Incapaz Agravada Continuada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "CARLOS",
+      "lastName": "CORO MENACHO",
+      "dateOfBirth": "1985/10/15",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['VIOLACION']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ERVIN ROBERTO",
+      "lastName": "MENDEZ BRAN",
+      "dateOfBirth": "1996/10/11",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "KEMAR",
+      "lastName": "THORNTON",
+      "dateOfBirth": "1992/08/05",
+      "nationalities": "['JM']",
+      "gender": "M",
+      "crimes": "['Wounding with intent to cause Grievous Bodily Harm']",
+      "wantedIn": "['JM']"
+    },
+    {
+      "firstName": "AL-HUSSEIN",
+      "lastName": "MOHAMMAD",
+      "dateOfBirth": "1993/06/05",
+      "nationalities": "['SE']",
+      "gender": "M",
+      "crimes": "['1. Exceptionally gross narcotics offence 2. Exceptionally gross narcotics smuggling']",
+      "wantedIn": "['SE']"
+    },
+    {
+      "firstName": "ROSALINDA",
+      "lastName": "PEREZ GOMEZ",
+      "dateOfBirth": "1993/04/15",
+      "nationalities": "['GT']",
+      "gender": "F",
+      "crimes": "['HOMICIDIO PRETERITENCIONAL']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "TIMUR",
+      "lastName": "GVARAMADZE",
+      "dateOfBirth": "1990/11/26",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Extortion committed with the purpose of obtaining property on an especially large scale\\r\\nRobbery \\r\\nRobbery committed by a group of persons by previous consent with the use of coercion that is not dangerous to human life or health, or with the threat of use of such coercion']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "HARSHIT BABULAL",
+      "lastName": "JAIN",
+      "dateOfBirth": "1985/12/02",
+      "nationalities": "['IN']",
+      "gender": "M",
+      "crimes": "['Cheating, Forgery, Criminal Conspiracy, offense related to IT Act, Offences related to Prevention of Gambling Act.']",
+      "wantedIn": "['IN']"
+    },
+    {
+      "firstName": "NIKOLA",
+      "lastName": "VRABEC",
+      "dateOfBirth": "1983/03/05",
+      "nationalities": "['HR']",
+      "gender": "M",
+      "crimes": "['Exceptionally gross narcotics smuggling. Exceptionally gross narcotics offence']",
+      "wantedIn": "['SE']"
+    },
+    {
+      "firstName": "PHILIP",
+      "lastName": "FARAGHI GILLILAND",
+      "dateOfBirth": "1997/03/26",
+      "nationalities": "['SE']",
+      "gender": "M",
+      "crimes": "['Gross devastation causing public danger. Gross violation of the Act on Inflammable and Explosive Substances']",
+      "wantedIn": "['SE']"
+    },
+    {
+      "firstName": "AHMED",
+      "lastName": "ABDULLAHI FARAH",
+      "dateOfBirth": "1991/02/05",
+      "nationalities": "['SE']",
+      "gender": "M",
+      "crimes": "['Exceptionally gross narcotics offence. Exceptionally gross narcotics smuggling.']",
+      "wantedIn": "['SE']"
+    },
+    {
+      "firstName": "YASSINE",
+      "lastName": "DGHOUGHI",
+      "dateOfBirth": "1997/11/28",
+      "nationalities": "['FR']",
+      "gender": "M",
+      "crimes": "['* VOL EN BANDE ORGANIS\u00c9E AVEC ARME \\r\\n* ARRESTATION, ENL\u00c8VEMENT, S\u00c9QUESTRATION OU D\u00c9TENTION ARBITRAIRE COMMIS EN BANDE ORGANIS\u00c9E']",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "BYRON ABELINO",
+      "lastName": "RAMIREZ LOPEZ",
+      "dateOfBirth": "1963/12/09",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['FEMICIDIO']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "ALISHER",
+      "lastName": "DZHUMAEV",
+      "dateOfBirth": "1992/02/03",
+      "nationalities": "['TJ']",
+      "gender": "M",
+      "crimes": "['Violent rape committed by a group of individuals']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "GUALBERTO",
+      "lastName": "SOTO CORDOVA",
+      "dateOfBirth": "1973/07/12",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['TRAFICO DE SUSTANCIAS CONTROLADAS']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JHONNY",
+      "lastName": "ZEGARRA QUISPE",
+      "dateOfBirth": "1985/09/19",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['TRAFICO DE SUSTANCIAS CONTROLADAS']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "RUSLAN",
+      "lastName": "UMAROV",
+      "dateOfBirth": "1981/10/19",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['participation in the activity of terrorist organization, participation in illegal armed formation.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "EDDY ARMANDO",
+      "lastName": "MELGAR",
+      "dateOfBirth": "1987/05/14",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['ASOCIACI\u00d3N IL\u00cdCITA, PLAGIO O SECUESTRO, Y LAVADO DE DINERO U OTROS ACTIVOS.']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "HELMUT WANDERSON",
+      "lastName": "CANTON",
+      "dateOfBirth": "1998/08/10",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['Homicidio, portaci\u00f3n ilegal de armas de fuego o municiones']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "DOMINIK MARIAN",
+      "lastName": "ORLOWSKI",
+      "dateOfBirth": "1995/02/03",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['ATTEMPTED HOMICIDE']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "ELOHIN DAVIS",
+      "lastName": "LIMA LIZARRAGA",
+      "dateOfBirth": "1986/02/28",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "HERNAN",
+      "lastName": "LLAVE MAMANI",
+      "dateOfBirth": "1984/12/20",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['VIOLACION']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "REINA",
+      "lastName": "LUNA CALIZAYA",
+      "dateOfBirth": "1989/01/06",
+      "nationalities": "['BO']",
+      "gender": "F",
+      "crimes": "['VIOLACION']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ROSALY",
+      "lastName": "BERNABE MAMANI",
+      "dateOfBirth": "1994/05/20",
+      "nationalities": "['BO']",
+      "gender": "F",
+      "crimes": "['HOMICIDIO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JAQUES",
+      "lastName": "VIEIRA TEODORO",
+      "dateOfBirth": "1990/09/26",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['HOMICIDE (1 time) AND ATTEMPTED HOMICIDE (3 times)']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "BADIS",
+      "lastName": "MAZOUNI",
+      "dateOfBirth": "1968/01/21",
+      "nationalities": "['DZ', 'US', 'FR']",
+      "gender": "M",
+      "crimes": "['- ESCROQUERIE R\u00c9ALIS\u00c9E EN BANDE ORGANIS\u00c9E \\r\\n- BLANCHIMENT EN BANDE ORGANIS\u00c9E']",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "ABDUGANI",
+      "lastName": "NURIDDINOV",
+      "dateOfBirth": "1970/12/14",
+      "nationalities": "['UZ']",
+      "gender": "M",
+      "crimes": "['financing of terrorism']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "SARA BEATRIZ",
+      "lastName": "LOPEZ DE AGUIRRE",
+      "dateOfBirth": "1986/04/03",
+      "nationalities": "['SV']",
+      "gender": "F",
+      "crimes": "['Tr\u00e1fico Ilegal de Personas (Tres Casos) y Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "WOJCIECH TADEUSZ",
+      "lastName": "CHRUSCIEL",
+      "dateOfBirth": "1962/04/23",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['participation in a criminal organization, laundering of the proceeds of crime, tax fraud']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "ABDERRAHMANE",
+      "lastName": "BOUCHACHI",
+      "dateOfBirth": "1997/04/22",
+      "nationalities": "['FR']",
+      "gender": "M",
+      "crimes": "[\"- OBTENU OU TENT\u00c9 D'OBTENIR PAR VIOLENCES, MENACES DE VIOLENCES OU CONTRAINTE, LA REMISE DE FONDS, DE VALEURS, OU D'UN BIEN QUELCONQUE, AVEC USAGE OU MENACE D'UNE ARME\"]",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "LUIS ALEXANDER URI",
+      "lastName": "V\u00c1SQUEZ L\u00d3PEZ",
+      "dateOfBirth": "1987/05/19",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Tr\u00e1fico Il\u00edcito']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "ALIKHAN",
+      "lastName": "UMAROV",
+      "dateOfBirth": "1983/12/02",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Participation in a terrorist organization, participation in illegal armed formation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "MANOEL",
+      "lastName": "DOS SANTOS BARROSO",
+      "dateOfBirth": "1966/07/30",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['Statutory Rape']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "GASAN",
+      "lastName": "CHAMKUROV",
+      "dateOfBirth": "1999/07/30",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Organization of activity of the terrorist organization and participation in activity of such organization; Participation in the illegal armed formations.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "ROBERTO CARLOS",
+      "lastName": "CHIRI ROMERO",
+      "dateOfBirth": "1985/11/10",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['VIOLACION']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ROBERTO CARLOS",
+      "lastName": "GUTI\u00c9RREZ GARC\u00cdA",
+      "dateOfBirth": "1996/12/04",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n en Menor O Incapaz Continuada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "ANTONIO JOSE",
+      "lastName": "DE ABREU VIDAL FILHO",
+      "dateOfBirth": "1994/01/03",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['Murder, attempted murder, physical torture and mental torture.']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "RAFIK KEFI",
+      "lastName": "HANNOUN",
+      "dateOfBirth": "1989/05/16",
+      "nationalities": "['FR']",
+      "gender": "M",
+      "crimes": "[\"- NON RESPECT D'OBLIGATION ou INTERDICTION IMPOS\u00c9E PAR JUGE AUX AFFAIRES FAMILIALES DANS ORDONNANCE DE PROTECTION D'UNE VICTIME DE VIOLENCES OU DE MENACE DE MARIAGE FORC\u00c9 - MENACE DE MORT PAR \u00c9CRIT, IMAGE OU AUTRE OBJET COMMISE PAR PERSONNE \u00c9TANT-AYANT \u00c9T\u00c9 CONJOINT, CONCUBIN OU PARTENAIRE LIE A LA VICTIME PAR UN PACTE CIVIL DE SOLIDARIT\u00c9- RECEL DE BIEN PROVENANT D'UN D\u00c9LIT PUNI DE PEINE N'EXC\u00c9DANT PAS 5 ANS EMPRISONNEMENT EN R\u00c9CIDIVE - MENACE DE MORT OU ATTEINTE AUX BIENS DANGEREUSE POUR PERSONNES CHARGE DE MISSION DE SERVICE PUBLIC - D\u00c9GRADATION DE BIEN DESTINE A L\u2019UTILIT\u00c9 PUBLIQUE - OUTRAGE A PERSONNE CHARG\u00c9E MISSION DE SERVICE PUBLIC- VIOLENCE SANS INCAPACIT\u00c9 PAR PERSONNE \u00c9TANT-AYANT \u00c9T\u00c9 CONJOINT, CONCUBIN OU PARTENAIRE LIE A LA VICTIME PAR UN PACTE CIVIL DE SOLIDARIT\u00c9 - VIOLENCE SUIVIE D\u2019INCAPACIT\u00c9 N\u2019EXC\u00c9DANT PAR 8 JOURS PAR PERSONNE \u00c9TANT-AYANT \u00c9T\u00c9 CONJOINT, CONCUBIN OU PARTENAIRE - VIOLENCE SUIVIE D\u2019INCAPACIT\u00c9 N\u2019EXC\u00c9DANT PAR 8 JOURS SUR UN MINEUR DE 15 ANS PAR ASCENDANT\"]",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "DANIEL PATRICIO",
+      "lastName": "GOROSITO PEREZ",
+      "dateOfBirth": "1983/03/22",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['ASESINATO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ROSANGELA APARECIDA",
+      "lastName": "RIBEIRO",
+      "dateOfBirth": "1976/07/18",
+      "nationalities": "['BR']",
+      "gender": "F",
+      "crimes": "['Tentativa de asesinato']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "MARIUSZ",
+      "lastName": "PRZYSIUDA",
+      "dateOfBirth": "1971/04/02",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['participation in the trade in significant quantities of a psychotropic substance; Intra-Community acquisition of a significant quantities of narcotic drugs']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "RABIE",
+      "lastName": "RIFFI",
+      "dateOfBirth": "1986/02/10",
+      "nationalities": "['DZ']",
+      "gender": "M",
+      "crimes": "['ARRESTATION, ENLEVEMENT, SEQUESTRATION OU DETENTION ARBITRAIRE COMMIS EN BANDE ORGANISEE - EXTORSION EN BANDE ORGANISEE COMMISE AVEC UNE ARME']",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "EDWIN ALFREDO",
+      "lastName": "ESPINOZA CONDORI",
+      "dateOfBirth": "1989/11/17",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['VIOLACION - DELITOS SEXUALES']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JOSE DAVID",
+      "lastName": "ZEAS MENDOZA",
+      "dateOfBirth": "1998/12/04",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['SECUESTRO EXTORSIVO,ROBO AGRAVADO,\\r\\nPORTACION O TENENCIA ILEGAL DE ARMAS DE FUEGO O MUNICIONES']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "TULIO DE JESUS",
+      "lastName": "PINTO GONZ\u00c1LEZ",
+      "dateOfBirth": "1995/10/10",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['PLAGIO O SECUESTRO Y ASESINATO']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "JOSE IVAN",
+      "lastName": "HERNANDEZ CASTRO",
+      "dateOfBirth": "2001/05/25",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['SECUESTRO EXTORSIVO, ROBO AGRAVADO, PORTACION O TENENCIA ILEGAL DE ARMAS DE FUEGO O MUNICIONES']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "MISRAEL",
+      "lastName": "CARDONA CABRERA",
+      "dateOfBirth": "1978/11/11",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['1. VIOLACI\u00d3N CON AGRAVACI\u00d3N DE LA PENA CON CIRCUNSTANCIAS ESPECIALES DE AGRAVACI\u00d3N\\r\\n2. AGRESI\u00d3N SEXUAL CON AGRAVACI\u00d3N DE LA PENA\\r\\n3. VIOLACI\u00d3N CON AGRAVACI\u00d3N DE LA PENA CON CIRCUNSTANCIAS ESPECIALES DE AGRAVACION']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "KAPIL",
+      "lastName": "SANGWAN",
+      "dateOfBirth": "1994/11/10",
+      "nationalities": "['IN']",
+      "gender": "M",
+      "crimes": "['MURDER, ATTEMPT TO MURDER']",
+      "wantedIn": "['IN']"
+    },
+    {
+      "firstName": "VIKRAMJEET",
+      "lastName": "SINGH",
+      "dateOfBirth": "1990/06/06",
+      "nationalities": "['IN']",
+      "gender": "M",
+      "crimes": "['House-trespass in order to commit offence punishable with death, attempts to commit offences not made punishable by other specific sections, criminal conspiracy, certain offences related to Arms/Ammunitions.']",
+      "wantedIn": "['IN']"
+    },
+    {
+      "firstName": "VICTOR MANUEL",
+      "lastName": "CORTEZ LOPEZ",
+      "dateOfBirth": "1974/03/10",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "JAIME AMILCAR",
+      "lastName": "GUEVARA PAZ",
+      "dateOfBirth": "1976/11/08",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Extorsi\u00f3n Agravada.']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "OSCAR ANTONIO",
+      "lastName": "ESCOBAR S\u00c1NCHEZ",
+      "dateOfBirth": "1985/12/02",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas.']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MELVIN JOSSUE",
+      "lastName": "ANGEL FLORES",
+      "dateOfBirth": "1997/05/06",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Homicidio Agravado.']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "AURELIO",
+      "lastName": "IBARRA MARTINEZ",
+      "dateOfBirth": "1956/06/16",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['violacion']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JOSE ABDON",
+      "lastName": "MENDOZA BELTRAN",
+      "dateOfBirth": "1980/01/10",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['Lesiones con resultado de muerte homicidio o asesinato']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ABDELKADER",
+      "lastName": "BOUGUETTAIA",
+      "dateOfBirth": "1987/06/29",
+      "nationalities": "['DZ', 'FR']",
+      "gender": "M",
+      "crimes": "[\"- PARTICIPATION A ASSOCIATION DE MALFAITEURS EN VUE DE LA PR\u00c9PARATION D'UN D\u00c9LIT PUNI DE 10 ANS D'EMPRISONNEMENT EN R\u00c9CIDIVE \\r\\n- COMPLICIT\u00c9 DE TENTATIVE DE D\u00c9TENTION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE\\r\\n- COMPLICIT\u00c9 DE TENTATIVE D'IMPORTATION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE\\r\\n- TENTATIVE D'IMPORTATION EN CONTREBANDE ET EN BANDE ORGANIS\u00c9E DE MARCHANDISE\u00b7 PROHIB\u00c9E EN R\u00c9CIDIVE\\r\\n- COMPLICIT\u00c9 DE TENTATIVE DE TRANSPORT NON AUTORISE DE STUP\u00c9FIANTS EN R\u00c9CIDIVE \\r\\n- COMPLICIT\u00c9 DE TENTATIVE D'OFFRE OU CESSION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE \\r\\n- COMPLICIT\u00c9 DE TENTATIVE D'ACQUISITION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE\\r\\n- TENTATIVE DE D\u00c9TENTION DE MARCHANDISE DANGEREUSE POUR LA SANT\u00c9 PUBLIQUE (STUP\u00c9FIANT) SANS DOCUMENT JUSTIFICATIF R\u00c9GULIER : FAIT REPUTE IMPORTATION EN CONTREBANDE EN R\u00c9CIDIVE\\r\\n- TENTATIVE DE TRANSPORT DE MARCHANDISE DANGEREUSE POUR LA SANT\u00c9 PUBLIQUE (STUP\u00c9FIANT) SANS DOCUMENT JUSTIFICATIF R\u00c9GULIER : FAIT REPUTE IMPORTATION EN CONTREBANDE EN R\u00c9CIDIVE\", \"LE 7 JUILLET 2020, LES AUTORIT\u00c9S ESPAGNOLES SOLLICITAIENT LES AUTORIT\u00c9S FRAN\u00c7AISES POUR LA POSE D'UNE BALISE SUR UN CAMION DEVANT R\u00c9CUP\u00c9RER UN CONTENEUR AU PORT DU HAVRE \u00c0 DESTINATION DE LA SOCI\u00c9T\u00c9 ESPAGNOLE ZURKUM BUSINESS SL-ESPANA \u00c0 VALENCE. LEDIT CONTENEUR \u00c9TAIT ARRAISONN\u00c9 AU PORT DE CARTHAG\u00c8NE EN COLOMBIE. IL CONTENAIT 2,5 TONNES DE COCA\u00cfNE. \\r\\n\\r\\nLES INVESTIGATIONS EN FRANCE PERMETTAIENT D'\u00c9TABLIR L'IMPLICATION DE DEUX DOCKERS, ET D'UN INDIVIDU DONT LE PROFIL G\u00c9N\u00c9TIQUE \u00c9TAIT D\u00c9COUVERT \u00c0 L'INT\u00c9RIEUR DU CONTENEUR. CE DERNIER D\u00c9NON\u00c7AIT L'EXISTENCE D'UNE STRUCTURE CRIMINELLE DE HAUT NIVEAU SP\u00c9CIALIS\u00c9E DANS LA SORTIE DE CONTENEURS. IL D\u00c9NON\u00c7AIT PLUS PARTICULI\u00c8REMENT L'IMPLICATION D'ABDELKADER BOUGUETTAIA, MEMBRE D'UNE FRATRIE TR\u00c8S D\u00c9FAVORABLEMENT CONNU DES AUTORIT\u00c9S POLICI\u00c8RES ET JUDICIAIRES POUR SON IMPLICATION DANS LA SORTIE DE CONTENEURS DE DROGUE DEPUIS LE PORT DU HAVRE.\", \"- Importation de stup\u00e9fiants en r\u00e9cidive l\u00e9gale\\r\\n- Acquisition de stup\u00e9fiants en r\u00e9cidive l\u00e9gale\\r\\n- Transport, d\u00e9tention de stup\u00e9fiants en r\u00e9cidive l\u00e9gale\\r\\n- Offre ou cession de stup\u00e9fiants en r\u00e9cidive l\u00e9gale \\r\\n- Participation \u00e0 une association de malfaiteurs en vue de la pr\u00e9paration de d\u00e9lits punis de dix ans d'emprisonnement en r\u00e9cidive l\u00e9gale \\r\\n- Importation en contrebande de marchandise dangereuse pour la sant\u00e9 publique (stup\u00e9fiants) en r\u00e9cidive l\u00e9gale \\r\\n- Transport de marchandise dangereuse pour la sant\u00e9 publique (stup\u00e9fiants) sans document justificatif r\u00e9gulier: fait r\u00e9put\u00e9 importation en contrebande en r\u00e9cidive l\u00e9gale \\r\\n- D\u00e9tention de marchandise dangereuse pour la sant\u00e9 publique (stup\u00e9fiants) sans document justificatif r\u00e9gulier: fait r\u00e9put\u00e9 importation en contrebande en r\u00e9cidive l\u00e9gale\", \"- COMPLICIT\u00c9 D'IMPORTATION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE \\r\\nL\u00c9GALE \\r\\n- COMPLICIT\u00c9 DE TRANSPORT NON AUTORISE DE STUP\u00c9FIANTS EN R\u00c9CIDIVE \\r\\nL\u00c9GALE \\r\\n- COMPLICIT\u00c9 DE D\u00c9TENTION NON AUTORIS\u00c9E DE STUP\u00c9FIANTS EN R\u00c9CIDIVE \\r\\nL\u00c9GALE \\r\\n- PARTICIPATION A UNE ASSOCIATION DE MALFAITEURS EN VUE DE LA PR\u00c9PARATION D'UN D\u00c9LIT PUNI DE DIX ANS D'EMPRISONNEMENT EN R\u00c9CIDIVE L\u00c9GALE\"]",
+      "wantedIn": "['FR', 'FR', 'FR', 'FR']"
+    },
+    {
+      "firstName": "RYSZARD",
+      "lastName": "KOSZCZYK",
+      "dateOfBirth": "1957/09/25",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['participation in criminal organization, accessory, production of narcotic drugs or psychotropic substances']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "FREDY",
+      "lastName": "PRATAMA",
+      "dateOfBirth": "1985/06/25",
+      "nationalities": "['ID']",
+      "gender": "M",
+      "crimes": "['Narotics Crime']",
+      "wantedIn": "['ID']"
+    },
+    {
+      "firstName": "JOSE EDUARDO",
+      "lastName": "ROJAS",
+      "dateOfBirth": "1978/02/15",
+      "nationalities": "None",
+      "gender": "M",
+      "crimes": "['violacion ni\u00f1o, ni\u00f1a adolescente']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "SELIMAT",
+      "lastName": "NURMAGOMEDOVA",
+      "dateOfBirth": "1951/10/12",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Organization of activity of the terrorist organization and participation in activity of such organization; Participation in the illegal armed formations.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "NICOLAS EDUARDO",
+      "lastName": "DOS SANTOS",
+      "dateOfBirth": "1994/10/26",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['ASESINATO']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "PAWEL BRONISLAW",
+      "lastName": "BURCHART",
+      "dateOfBirth": "1965/02/09",
+      "nationalities": "['PL']",
+      "gender": "M",
+      "crimes": "['a crime of fraud and forgery which led to an unfavorable disposition of the amount of PLN 473,360.00 to the \\r\\ndetriment of \"Enerfin\" Sp. z o.o. in Zielona Gora.']",
+      "wantedIn": "['PL']"
+    },
+    {
+      "firstName": "JOSE WALTER",
+      "lastName": "BASSANI SACIAS",
+      "dateOfBirth": "1939/10/22",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['REITERADOS DELITOS DE TORTURA Y PRIVACI\u00d3N DE LIBERTAD EN CALIDAD DE COAUTOR']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "AKHMED",
+      "lastName": "MAKHMUDOV",
+      "dateOfBirth": "1984/11/20",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Organization of activity of the terrorist organization and participation in activity of such organization; Participation in the illegal armed formations.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "JOHN LAUTARO",
+      "lastName": "JUAREZ FANLORD",
+      "dateOfBirth": "1994/01/10",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO EN CALIDAD DE COAUTOR']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "FAYZIDDIN",
+      "lastName": "KURBONADINOV",
+      "dateOfBirth": "1985/09/04",
+      "nationalities": "['TJ']",
+      "gender": "M",
+      "crimes": "['Participation in the activity of a terrorist organization on the territory of a foreign country;\\r\\nparticipation in the activity of a terrorist organization']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "KAZIM",
+      "lastName": "GENC",
+      "dateOfBirth": "1984/02/20",
+      "nationalities": "['FR']",
+      "gender": "M",
+      "crimes": "[\"- ASSASSINAT \\r\\n- DESTRUCTION DU BIEN D'AUTRUI PAR SUBSTANCE EXPLOSIVE, INCENDIAIRE OU TOUT AUTRE MOYEN DANGEREUX POUR LES PERSONNES.\", \"- \u00c9VASION D'UN D\u00c9TENU B\u00c9N\u00c9FICIAIRE D'UNE PERMISSION DE SORTIR\"]",
+      "wantedIn": "['FR', 'FR']"
+    },
+    {
+      "firstName": "ANNA",
+      "lastName": "KONOVALOVA",
+      "dateOfBirth": "1986/12/09",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['participation in the activity of an illegal armed formation; participation in the activity of a terrorist organization']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "RIAD",
+      "lastName": "SALAME",
+      "dateOfBirth": "1950/07/17",
+      "nationalities": "['LB']",
+      "gender": "M",
+      "crimes": "['jointly committed money laundering, money laundering on a repetitive and gainful basis']",
+      "wantedIn": "['DE']"
+    },
+    {
+      "firstName": "ROVERTO",
+      "lastName": "MENACHO CUSIPUMA",
+      "dateOfBirth": "1985/12/21",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['VIOLACION Y DELITOS SEXUALES.']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JUAN",
+      "lastName": "ANDIA CALLA",
+      "dateOfBirth": "1985/05/02",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['Infanticidio']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "EDGAR",
+      "lastName": "GUTIERREZ QUISPE",
+      "dateOfBirth": "1990/06/15",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['violacion']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "CARLOS HENRIQUE",
+      "lastName": "RAMOS SILVA",
+      "dateOfBirth": "1985/06/17",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['Qualified Homicide (Attempted Crime)']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "JOS\u00c9 ISA\u00cd",
+      "lastName": "BARAHONA BARAHONA",
+      "dateOfBirth": "1982/10/12",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas y Extorsi\u00f3n Agravada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MIGUEL \u00c1NGEL",
+      "lastName": "ARGUETA D\u00cdAZ",
+      "dateOfBirth": "2001/03/04",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "VICTOR",
+      "lastName": "APOSTOLIUC",
+      "dateOfBirth": "1976/09/03",
+      "nationalities": "['MD']",
+      "gender": "M",
+      "crimes": "['Aggravated Deliberate Murder']",
+      "wantedIn": "['MD']"
+    },
+    {
+      "firstName": "SALVADOR FRANCISCO",
+      "lastName": "HERNANDEZ MENDOZA",
+      "dateOfBirth": "1982/06/04",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['Femicidio']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "JOS\u00c9 SALVADOR",
+      "lastName": "HERN\u00c1NDEZ AYALA",
+      "dateOfBirth": "1973/08/06",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "VERONICA MARIA",
+      "lastName": "SILVA BRAVO",
+      "dateOfBirth": "1973/04/04",
+      "nationalities": "['NI']",
+      "gender": "F",
+      "crimes": "['ASESINATO']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "JOS\u00c9 MICHEHA",
+      "lastName": "NOLASCO BARAHONA",
+      "dateOfBirth": "1988/05/10",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas y Extorsi\u00f3n Agravada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "ERICK JAVIER",
+      "lastName": "ORELLANA MARQUEZ",
+      "dateOfBirth": "1993/07/12",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas y Extorsi\u00f3n Agravada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "RIAD TOUFIK",
+      "lastName": "SALAME",
+      "dateOfBirth": "1950/07/17",
+      "nationalities": "['FR', 'LB']",
+      "gender": "M",
+      "crimes": "[\"- Association de malfaiteurs en vue de commettre des d\u00e9lits punis de 10 ans d'emprisonnement. \\r\\n- Blanchiment en bande organis\u00e9e.\\r\\n- Blanchiment de fraude fiscale aggrav\u00e9e\"]",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "RAISAT",
+      "lastName": "ILYASOVA",
+      "dateOfBirth": "1985/07/19",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Organization of activity of the terrorist organization and participation in activity of such organization; Participation in the illegal armed formations']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "UMGAYBAT",
+      "lastName": "GADZHIEVA",
+      "dateOfBirth": "1998/07/22",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['participation in the activity of a terrorist organization; participation in the activity of an illegal armed formation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "DZHUMBER",
+      "lastName": "BAIRAMIDI",
+      "dateOfBirth": "1977/04/24",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Extortion; Top position in the criminal hierarchy']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "EDGARDO",
+      "lastName": "MART\u00cdNEZ RODR\u00cdGUEZ",
+      "dateOfBirth": "1990/03/29",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Homicidio Agravado']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "BYRON BRADLEY",
+      "lastName": "DEMERITTE",
+      "dateOfBirth": "1993/02/23",
+      "nationalities": "['BS']",
+      "gender": "M",
+      "crimes": "['Murder']",
+      "wantedIn": "['BS']"
+    },
+    {
+      "firstName": "GEORGES",
+      "lastName": "LOTFI",
+      "dateOfBirth": "1940/11/05",
+      "nationalities": "['FR', 'LB']",
+      "gender": "M",
+      "crimes": "['1) Criminal Possession of Stolen Property in the First Degree \\r\\n2) Criminal Possession of Stolen Property in the Second Degree (14 counts)\\r\\n3) Criminal Possession of Stolen Property in the Third Degree (9 counts)']",
+      "wantedIn": "['US']"
+    },
+    {
+      "firstName": "JOSE EDUARDO",
+      "lastName": "MACZ GUERRA",
+      "dateOfBirth": "1990/09/28",
+      "nationalities": "['GT']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n con circunstancias especiales de agravaci\u00f3n']",
+      "wantedIn": "['GT']"
+    },
+    {
+      "firstName": "PEDRO OSMAR",
+      "lastName": "PERLA RUBIO",
+      "dateOfBirth": "1986/03/04",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Homicidio Agravado y Organizaciones Terroristas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MAXIMO",
+      "lastName": "ALANOCA CONDORI",
+      "dateOfBirth": "1974/11/02",
+      "nationalities": "None",
+      "gender": "M",
+      "crimes": "['violacion']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JORGE LUIS",
+      "lastName": "HERN\u00c1NDEZ CENTENO",
+      "dateOfBirth": "1998/08/24",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas, Homicidio Agravado y extorsi\u00f3n']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "FLORENCIO",
+      "lastName": "MAMANI ALFONZO",
+      "dateOfBirth": "1998/01/15",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['evasion y robo agravado']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "JOSE ROGELIO MISAEL",
+      "lastName": "RUBIO PERLA",
+      "dateOfBirth": "1980/10/16",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Organizaciones Terroristas y Homicidio Agravado']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "NOEL ANTONIO",
+      "lastName": "ROSTRAN AMADOR",
+      "dateOfBirth": "1992/04/02",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['FEMICIDIO, VIOLACION AGRAVADA Y PARRICIDIO.']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "ADAM",
+      "lastName": "YANDIEV",
+      "dateOfBirth": "1985/01/28",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['participation in the activity of an illegal armed formation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "EDUARDO",
+      "lastName": "GUTIERREZ ANGULO",
+      "dateOfBirth": "1975/11/08",
+      "nationalities": "['CO']",
+      "gender": "M",
+      "crimes": "['VIOLACION']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "RUBINSON",
+      "lastName": "ROSA ESCALANTE",
+      "dateOfBirth": "1942/07/03",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['Homicidio muy especialmente agravado.']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "MARIO SEBASTIAN",
+      "lastName": "PEREZ CABRERA",
+      "dateOfBirth": "2000/02/16",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['UN DELITO DE HOMICIDIO Y UN DELITO DE LESIONES GRAVES INTENCIONALES EN R\u00c9GIMEN DE REITERACI\u00d3N REAL']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "NAZAR ABDELKARIM",
+      "lastName": "AL-KHAZRAJI",
+      "dateOfBirth": "1938/11/17",
+      "nationalities": "['IQ']",
+      "gender": "M",
+      "crimes": "['Participation to murder']",
+      "wantedIn": "['DK']"
+    },
+    {
+      "firstName": "ALAN FRANCO",
+      "lastName": "LOPEZ BARU",
+      "dateOfBirth": "2001/10/30",
+      "nationalities": "['UY']",
+      "gender": "M",
+      "crimes": "['ASOCIACI\u00d3N PARA DELINQUIR EN CONCURSO FUERA DE LA\\r\\nREITERACI\u00d3N CON UN DELITO DE HOMICIDIO ESPECIALMENTE AGRAVADO EN GRADO DE TENTATIVA Y UN DELITO DE LESIONES PERSONALES EN R\u00c9GIMEN DE REITERACI\u00d3N REAL.']",
+      "wantedIn": "['UY']"
+    },
+    {
+      "firstName": "NAQEEBA",
+      "lastName": "ZAHID",
+      "dateOfBirth": "1988/07/29",
+      "nationalities": "['GY']",
+      "gender": "F",
+      "crimes": "['Murder', 'MURDER']",
+      "wantedIn": "['GY', 'GY']"
+    },
+    {
+      "firstName": "THAKURDIAL",
+      "lastName": "SAMAROO",
+      "dateOfBirth": "1966/05/02",
+      "nationalities": "['GY']",
+      "gender": "M",
+      "crimes": "['MURDER']",
+      "wantedIn": "['GY']"
+    },
+    {
+      "firstName": "RICARDO JOSE",
+      "lastName": "WILLIAMS VARGAS",
+      "dateOfBirth": "1982/10/13",
+      "nationalities": "['NI']",
+      "gender": "M",
+      "crimes": "['Abuso Sexual']",
+      "wantedIn": "['NI']"
+    },
+    {
+      "firstName": "MANNUR",
+      "lastName": "KHAIDAROV",
+      "dateOfBirth": "1983/01/03",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Participation in activities of a terrorist organization;\\r\\nParticipation in activities of an illegal armed formation.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "LEILA",
+      "lastName": "BEDIRKHANOVA",
+      "dateOfBirth": "1992/10/13",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Participation in activities of a terrorist organization;\\nParticipation in activities of an illegal armed formation.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "RAMI",
+      "lastName": "HADDAD",
+      "dateOfBirth": "1994/02/14",
+      "nationalities": "['DZ']",
+      "gender": "M",
+      "crimes": "[\"*Menace de mort r\u00e9it\u00e9r\u00e9e\\r\\n*Menace de mort mat\u00e9rialis\u00e9e par \u00e9crit, image ou autre objet\\r\\n*Viol commis par une personne \u00e9tant ou ayant \u00e9t\u00e9 conjoint, concubin ou partenaire li\u00e9 \u00e0 la victime par un pacte civil de solidarit\u00e9\\r\\n*Violence sans incapacit\u00e9 par une personne \u00e9tant ou ayant \u00e9t\u00e9 conjoint, concubin ou partenaire li\u00e9 \u00e0 la victime par un pacte civil de solidarit\u00e9\\r\\n*Arrestation, enl\u00e8vement, s\u00e9questration ou d\u00e9tention arbitraire suivi d'une lib\u00e9ration avant le 7\u00e8me jour\"]",
+      "wantedIn": "['FR']"
+    },
+    {
+      "firstName": "LUIS ALONSO",
+      "lastName": "RODRIGUEZ ANGEL",
+      "dateOfBirth": "1978/02/18",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['1. Agrupaciones Il\u00edcitas\\r\\n2. Homicidio Agravado']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MANUEL DE JESUS",
+      "lastName": "SALGUERO CALDERON",
+      "dateOfBirth": "1971/01/31",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agresi\u00f3n Sexual en Menor e Incapaz, Agravada y Continuada']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "CARLOS ALBERTO",
+      "lastName": "S\u00c1NCHEZ BEN\u00cdTEZ",
+      "dateOfBirth": "1991/10/09",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "H\u00c9CTOR HUMBERTO",
+      "lastName": "GONZ\u00c1LEZ",
+      "dateOfBirth": "1981/02/20",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "JAILSON",
+      "lastName": "MARTINS DA SILVA",
+      "dateOfBirth": "1994/10/15",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['Homicidio y Homicidio intentado.']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "ANTONIO",
+      "lastName": "BATISTA DE LIMA",
+      "dateOfBirth": "1968/01/01",
+      "nationalities": "['BR']",
+      "gender": "M",
+      "crimes": "['Violaci\u00f3n']",
+      "wantedIn": "['BR']"
+    },
+    {
+      "firstName": "NOELIO ANTONIO",
+      "lastName": "ORANTES CALDERON",
+      "dateOfBirth": "1983/12/16",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "CARLOS ENRIQUE",
+      "lastName": "CHINCHILLA ACEVEDO",
+      "dateOfBirth": "1986/11/16",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MARIO ENRIQUE",
+      "lastName": "HERNANDEZ TORRES",
+      "dateOfBirth": "1984/10/31",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "MARIANNA",
+      "lastName": "NIKONOVA",
+      "dateOfBirth": "1974/10/23",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Organization of an illegal armed formation, or participation in it.\\r\\nOrganization of activities of a terrorist organization and participation in activities of such organization.']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "FARIDUN",
+      "lastName": "NISHONOV",
+      "dateOfBirth": "1998/08/29",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['attempt to commit a crime, participation in the activity of a terrorist organization']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "THANNAWAT",
+      "lastName": "CHOOKIATSAKULKRAI",
+      "dateOfBirth": "1995/10/24",
+      "nationalities": "['TH']",
+      "gender": "F",
+      "crimes": "['Together defrauding people borrowing money which defrauds the public. Bring into the system a false statement in a manner that is likely to cause damage to the public.']",
+      "wantedIn": "['TH']"
+    },
+    {
+      "firstName": "PLOYTHITA",
+      "lastName": "NIRAMITBOONYAWAT",
+      "dateOfBirth": "1991/07/23",
+      "nationalities": "['TH']",
+      "gender": "F",
+      "crimes": "['Together defrauding people borrowing money which defrauds the public. Bring into the system a false statement in a manner that is likely to cause damage to the public.']",
+      "wantedIn": "['TH']"
+    },
+    {
+      "firstName": "NIGORA",
+      "lastName": "KHODZHIBAEVA",
+      "dateOfBirth": "1992/11/08",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Participation in the activity of terrorist organization; Participation in an illegal armed formation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "ALEKSANDRA",
+      "lastName": "SUKHORUKOVA",
+      "dateOfBirth": "1983/10/21",
+      "nationalities": "['RU']",
+      "gender": "F",
+      "crimes": "['Contributing to terrorist activity\\r\\n: Organisation of activities of a terrorist organisation, and participation in activites of such organisation: The organisation of an illegal armed formation or participation in it, which is equal to participation in a confrontation or military operations contradicting interests of the Russian Federation']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "RODRIGO",
+      "lastName": "LIMA FIGUEROA",
+      "dateOfBirth": "1993/11/19",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['HOMICIDIO AGRAVADO POR EL V\u00cdNCULO Y POR MEDIAR VIOLENCIA DE G\u00c9NERO -FEMICIDIO-']",
+      "wantedIn": "['AR']"
+    },
+    {
+      "firstName": "ADAM",
+      "lastName": "DZHABRAILOV",
+      "dateOfBirth": "1974/12/21",
+      "nationalities": "['RU']",
+      "gender": "M",
+      "crimes": "['Organisation of an Illegal Armed Formation, or Participation in It\\r\\nAct of Terrorism\\r\\nEncroachment on the Life of an Officer of a Law-enforcement Agency \\r\\nIllegal Acquisition, Transfer, Sale, Storage, Transportation, or Bearing of Firearms, Its Basic Parts, Ammunition, Explosives, and Explosive Devices\\r\\nMurder']",
+      "wantedIn": "['RU']"
+    },
+    {
+      "firstName": "FRANCISCO LINO",
+      "lastName": "RIVERA MANCIA",
+      "dateOfBirth": "1995/01/17",
+      "nationalities": "['SV']",
+      "gender": "M",
+      "crimes": "['Agrupaciones Il\u00edcitas']",
+      "wantedIn": "['SV']"
+    },
+    {
+      "firstName": "RAUL",
+      "lastName": "MOLLO ZAMBRANA",
+      "dateOfBirth": "1993/10/29",
+      "nationalities": "['BO']",
+      "gender": "M",
+      "crimes": "['RECEPTACION DE SUSTANCIAS (ESTUPEFACIENTES)']",
+      "wantedIn": "['BO']"
+    },
+    {
+      "firstName": "ROBERTO EDUARDO",
+      "lastName": "RIVERA GALAZ",
+      "dateOfBirth": "1972/12/24",
+      "nationalities": "['AR']",
+      "gender": "M",
+      "crimes": "['ABUSO SEXUAL CON ACCESO CARNAL EN HECHOS REITERADOS DOBLEMENTE AGRAVADO POR SER COMETIDO EN CONTRA DE UN MENOR DE EDAD APROVECHANDO LA SITUACI\u00d3N DE CONVIVENCIA Y POR SER COMETIDO POR UNA PERSONA A CARGO DE SU GUARDA.']",
+      "wantedIn": "['AR']"
+    }
+  ]
+}
